@@ -7,10 +7,9 @@ public class HelloWorld {
        /*
        more comments here
        */
-
        System.out.println("Hello World!");
        testVariables();
-       testVariables();
+       ///testVariables();
     }
 
 
